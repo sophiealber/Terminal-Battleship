@@ -1,0 +1,28 @@
+---
+# Members of our group.
+group:
+  - name: Chloe Chan
+    netid: cac499
+  - name: Quinn Hulme
+    netid: qjh2
+  - name: Sophie Alber
+    netid: saa242
+  - name: Sophie Meng
+    netid: sym28
+# Our PM.
+pm:
+  name: Nikita Kasumov
+  netid: nk495
+publish: true
+title: "Battleship!"
+git-repo: "https://github.coecis.cornell.edu/qjh2/cs3110-final-project.git"
+demo-video-url: ""
+desc: >
+  Our project is an interactive, terminal-based interpretation of the classic 
+  boardgame 'Battleship'. It supports standard play mechanics such as placing
+  ships, firing at your opponent, and sinking their fleet to achieve victory!
+  The interface is completely within the terminal, where a character based 
+  representation of a battleship board, which can be played and interacted with
+  by issuing "commands" to the terminal.
+  
+  Standard visual I/O within the terminal is supported.

@@ -1,0 +1,8 @@
+(include_subdirs unqualified)
+
+(library
+ (name battleship)
+ (public_name Battleship)
+ (libraries yojson)
+ (instrumentation
+  (backend bisect_ppx)))

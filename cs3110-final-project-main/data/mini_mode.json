@@ -1,0 +1,32 @@
+{
+  "id": "mini_mode",
+  "description": "Mini Mode!",
+  "board size": 5,
+  "ships": [
+    {
+      "id": 5,
+      "name": "carrier",
+      "length": 1
+    },
+    {
+      "id": 4,
+      "name": "battleship",
+      "length": 2
+    },
+    {
+      "id": 3,
+      "name": "cruiser",
+      "length": 1
+    },
+    {
+      "id": 2,
+      "name": "submarine",
+      "length": 2
+    },
+    {
+      "id": 1,
+      "name": "destroyer",
+      "length": 1
+    }
+  ]
+}
